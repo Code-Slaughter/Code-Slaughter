@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a master student at EPFL.
-- 🌱 Currently learning Computer Science
+- 👋 Hi, I’m pursuing master degree at EPFL now.
+- 🌱 Currently learning Computer Science.
 - 📫 Feel free to contact me with email: yisongmao@outlook.com
 
 <!---
